@@ -1,3 +1,3 @@
 # rcnn_keras
 
-# Implementation RCNN 
+# Implementation Object detection methods
